@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\AddressBookAPI\AddressBook.Persistance\bin\Debug\net5.0\AddressBook.Persistance.deps.json
+C:\Users\ASUS\source\repos\AddressBookAPI\AddressBook.Persistance\bin\Debug\net5.0\AddressBook.Persistance.dll
+C:\Users\ASUS\source\repos\AddressBookAPI\AddressBook.Persistance\bin\Debug\net5.0\ref\AddressBook.Persistance.dll
+C:\Users\ASUS\source\repos\AddressBookAPI\AddressBook.Persistance\bin\Debug\net5.0\AddressBook.Persistance.pdb
+C:\Users\ASUS\source\repos\AddressBookAPI\AddressBook.Persistance\bin\Debug\net5.0\AddressBook.Domain.dll
+C:\Users\ASUS\source\repos\AddressBookAPI\AddressBook.Persistance\bin\Debug\net5.0\AddressBook.Domain.pdb
+C:\Users\ASUS\source\repos\AddressBookAPI\AddressBook.Persistance\obj\Debug\net5.0\AddressBook.Persistance.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\AddressBookAPI\AddressBook.Persistance\obj\Debug\net5.0\AddressBook.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\AddressBookAPI\AddressBook.Persistance\obj\Debug\net5.0\AddressBook.Persistance.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\AddressBookAPI\AddressBook.Persistance\obj\Debug\net5.0\AddressBook.Persistance.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\AddressBookAPI\AddressBook.Persistance\obj\Debug\net5.0\AddressBook.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\AddressBookAPI\AddressBook.Persistance\obj\Debug\net5.0\AddressBook.Persistance.csproj.CopyComplete
+C:\Users\ASUS\source\repos\AddressBookAPI\AddressBook.Persistance\obj\Debug\net5.0\AddressBook.Persistance.dll
+C:\Users\ASUS\source\repos\AddressBookAPI\AddressBook.Persistance\obj\Debug\net5.0\ref\AddressBook.Persistance.dll
+C:\Users\ASUS\source\repos\AddressBookAPI\AddressBook.Persistance\obj\Debug\net5.0\AddressBook.Persistance.pdb
